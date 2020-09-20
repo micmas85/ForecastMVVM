@@ -81,3 +81,5 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+app/src/main/java/pl/michalmaslak/forecastmvvm/utils/Constants.kt
+app/src/main/java/pl/michalmaslak/forecastmvvm/utils/Constants.kt
